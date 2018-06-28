@@ -1,5 +1,5 @@
 {
-    "name": "task-scheduler",
+    "name": "ipaya/task-scheduler",
     "type": "library",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
