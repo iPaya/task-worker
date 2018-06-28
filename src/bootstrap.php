@@ -3,8 +3,8 @@
 define('TASK_WORKER_ROOT_PATH', dirname(__DIR__));
 
 $composerAutoload = [
-    __DIR__ . '/../vendor/autoload.php',
-    __DIR__ . '/../../autoload.php',
+    TASK_WORKER_ROOT_PATH . '/vendor/autoload.php',
+    TASK_WORKER_ROOT_PATH . '/../../autoload.php',
 ];
 $vendorPath = null;
 foreach ($composerAutoload as $autoload) {
