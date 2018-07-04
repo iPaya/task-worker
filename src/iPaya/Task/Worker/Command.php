@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App;
+namespace iPaya\Task\Worker;
 
 
 class Command extends \Symfony\Component\Console\Command\Command

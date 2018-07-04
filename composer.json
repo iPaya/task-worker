@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "App\\": "src/App"
+            "iPaya\\Task\\Worker\\": "src/iPaya/Task/Worker"
         }
     },
     "bin": [

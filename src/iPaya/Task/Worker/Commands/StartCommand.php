@@ -1,10 +1,10 @@
 <?php
 
 
-namespace App\Commands;
+namespace iPaya\Task\Worker\Commands;
 
 
-use App\Command;
+use iPaya\Task\Worker\Command;
 use Swoole\Client;
 use Swoole\Process;
 use Swoole\Server;

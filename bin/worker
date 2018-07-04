@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-use App\Commands\StartCommand;
+use iPaya\Task\Worker\Commands\StartCommand;
 use Symfony\Component\Console\Application;
 
 date_default_timezone_set('Asia/Shanghai');
